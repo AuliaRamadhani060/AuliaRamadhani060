@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: saya pria normal yang suka menulis dan   berbagi pengetahuan.
 
-![sans](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR4OXI1YThoZ3NvMHYweW5sdGFzNXg0MGd6cDVpNmNhY2pvcXE2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T9GRGYUjrdx71OCESw/giphy.gif)
+![sans](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F1dzc1bG5zNHVoaXNlMGh5M2piOGQ4ZGF5M3B4Ym9xemQ4eXg1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9ILx37mYH7sqUWxGu/giphy.gif)
