@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bintang-bintang paling terang selalu lahir dari kegelapan. 🌟
 
 <!--
 **AuliaRamadhani060/AuliaRamadhani060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Laravel Framework**](https://laravel.com)
+
+- 💬 Ask me about nothing
+
+- ⚡ Fun fact: saya pria normal yang suka menulis dan   berbagi pengetahuan.
+
+![sans](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR4OXI1YThoZ3NvMHYweW5sdGFzNXg0MGd6cDVpNmNhY2pvcXE2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T9GRGYUjrdx71OCESw/giphy.gif)
