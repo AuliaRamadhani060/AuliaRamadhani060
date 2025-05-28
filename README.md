@@ -1,8 +1,9 @@
 <div align="center">
   
+# 🌟 Aulia Ramadhani
 ### *"Bintang-bintang paling terang selalu lahir dari kegelapan"* ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Enthusiast;Tech+Writer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Enthusiast;Tech+Writer;Problem+Solver;Game+Lover)](https://git.io/typing-svg)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FoNzJjazMwbTltdDUzN3ZwYjF3NzdjOGtteWhpZXA0Y3kxbDh1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WnrqPEnnCQkTCWFrl/giphy.gif" width="300" alt="Coding GIF"/>
 
@@ -10,17 +11,18 @@
 
 ---
 
-## 🚀 About Me
+## 🎮 Interactive Games Zone
 
-```javascript
-const aulia = {
-    code: ["PHP", "JavaScript", "HTML", "CSS", "SQL"],
-    framework: ["Laravel", "Vue.js", "Bootstrap", "Tailwind CSS"],
-    tools: ["Git", "Docker", "VS Code", "Postman"],
-    currentFocus: "Building scalable web applications with Laravel",
-    funFact: "Saya pria normal yang suka menulis dan berbagi pengetahuan 📝"
-};
-```
+<div align="center">
+
+### 🟡 Pacman Game
+![Pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+### 🐍 Snake Game  
+![Snake eating my contributions](https://raw.githubusercontent.com/AuliaRamadhani060/AuliaRamadhani060/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 <div align="center">
 
@@ -51,10 +53,11 @@ const aulia = {
 
 - 🌱 **Currently Learning:** [Laravel Framework](https://laravel.com) - Mastering advanced concepts
 - 🔭 **Working On:** Web applications with modern PHP practices
+- 🎮 **Gaming:** Building simple web games with JavaScript
 - 👯 **Looking to Collaborate:** Open source Laravel projects
 - 🤔 **Seeking Help:** Advanced Laravel patterns and best practices
-- 💬 **Ask Me About:** PHP, Laravel, Web Development, or anything tech-related!
-- 📫 **Reach Me:** Feel free to connect and discuss technology
+- 💬 **Ask Me About:** PHP, Laravel, Web Development, Gaming, or anything tech-related!
+- 📫 **Reach Me:** Feel free to connect and discuss technology or games
 
 ## 🏆 Achievements
 
@@ -94,9 +97,11 @@ If you like my projects, consider buying me a coffee! ☕
 <div align="center">
 
 ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
+### 🎮 *"Life is a game, code is the cheat code!"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AuliaRamadhani060&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+**🎮 Don't forget to play the games above!**
 
 </div>
