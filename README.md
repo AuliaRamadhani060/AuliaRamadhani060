@@ -19,7 +19,6 @@
 
 <div align="center">
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,12 +34,14 @@
 
 </div>
 
----
+
+
+
+<div align="center">
+
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AuliaRamadhani060&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AuliaRamadhani060&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
@@ -49,9 +50,11 @@
 
 </div>
 
----
+<div align="center">
 
 ## 🎯 Current Focus
+
+</div>
 
 - 🌱 **Currently Learning:** [Laravel Framework](https://laravel.com) - Mastering advanced concepts
 - 🔭 **Working On:** Web applications with modern PHP practices
@@ -61,27 +64,29 @@
 - 💬 **Ask Me About:** PHP, Laravel, Web Development, Gaming, or anything tech-related!
 - 📫 **Reach Me:** Feel free to connect and discuss technology or games
 
----
 
-## 🏆 Achievements
 
 <div align="center">
+
+## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AuliaRamadhani060&theme=discord&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<div align="center">
 
 ## 📈 Activity Graph
 
+</div>
+
 [![Aulia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AuliaRamadhani060&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## 🌟 Code Metrics
 
 <div align="center">
+
+## 🌟 Code Metrics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuliaRamadhani060&theme=github_dark)
 
@@ -91,11 +96,12 @@
 
 </div>
 
----
 
-## 🌐 Connect with Me
+
 
 <div align="center">
+
+## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=161b22)](https://github.com/AuliaRamadhani060)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a&color=161b22)](https://linkedin.com/in/your-profile)
@@ -105,11 +111,11 @@
 
 </div>
 
----
 
-## 💫 Visitor Tracking
 
 <div align="center">
+
+## 💫 Visitor Tracking
 
 ![](https://visitcount.itsvg.in/api?id=AuliaRamadhani060&icon=5&color=0)
 
